@@ -6,3 +6,6 @@ nltk
 wordcloud
 Sastrawi
 scikit-learn
+google-play-scraper
+langchain_community
+replicate
